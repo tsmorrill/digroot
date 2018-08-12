@@ -7,7 +7,7 @@
 #'   single-length integer
 #' @seealso [dig_sum()]
 #' @references
-#' From Thomas Morril on Twitter:
+#' From Thomas Morrill on Twitter:
 #'
 #'   <https://twitter.com/tsmorrill/status/1028108510746226688>
 #'   <https://twitter.com/tsmorrill/status/1028142110342504448>
